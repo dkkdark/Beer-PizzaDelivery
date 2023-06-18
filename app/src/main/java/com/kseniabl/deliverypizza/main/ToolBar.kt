@@ -35,7 +35,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.kseniabl.main.R
-import com.kseniabl.main.menu.presentation.MenuViewModel
 import com.kseniabl.themes.ContainerRed
 import com.kseniabl.themes.Grey40
 import com.kseniabl.themes.SelectedTextRed
@@ -47,7 +46,7 @@ fun CollapsedTopBar(
 ) {
     viewModel.getBanners()
     val banners by viewModel.banners.collectAsState()
-    val categories = listOf("Пицца", "Комбо", "Десерты", "Напитки")
+    val categories = listOf("Пиво", "Комбо", "Десерты", "Напитки")
 
     Column(
         modifier = Modifier

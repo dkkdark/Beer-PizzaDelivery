@@ -13,10 +13,6 @@ class MainRepositoryImpl @Inject constructor(
     private val dbRepository: DeliveryDatabaseRepository
 ): MainDataRepository {
 
-    /*override suspend fun getBeer(): Flow<List<BeerRequest>> = flow {
-        emit(remoteSource.getBeer())
-    }*/
-
     override fun getBanners(): List<BannerModel> =
         localSource.getBanners()
 
