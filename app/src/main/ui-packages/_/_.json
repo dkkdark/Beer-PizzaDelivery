@@ -1,0 +1,1784 @@
+{
+  "name": "_",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "ptk78MBfzdR78aZzkfRsWv",
+    "node": "10313:164",
+    "version": "3667288316",
+    "component-id": "77c10eb5e954d5850a85ab939827d4751020896d"
+  },
+  "default": "Главный экран-скролл",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 54"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 55"
+      },
+      {
+        "type": "group",
+        "id": "Список"
+      },
+      {
+        "type": "group",
+        "id": "Категории товара v2"
+      },
+      {
+        "type": "adin_component",
+        "id": "TabBar",
+        "key": "tab_bar"
+      },
+      {
+        "type": "group",
+        "id": "NavigationBar"
+      },
+      {
+        "type": "group",
+        "id": "Товар 1"
+      },
+      {
+        "type": "group",
+        "id": "Товар 2"
+      },
+      {
+        "type": "group",
+        "id": "Товар 3"
+      },
+      {
+        "type": "vector",
+        "id": "Line 5"
+      },
+      {
+        "type": "group",
+        "id": "Group 43"
+      },
+      {
+        "type": "image",
+        "id": "Буффало 1"
+      },
+      {
+        "type": "group",
+        "id": "текст"
+      },
+      {
+        "type": "vector",
+        "id": "Line 4"
+      },
+      {
+        "type": "text",
+        "id": "Ветчина и грибы"
+      },
+      {
+        "type": "text",
+        "id": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус"
+      },
+      {
+        "type": "group",
+        "id": "цена"
+      },
+      {
+        "type": "text",
+        "id": "от 345 р"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 42"
+      },
+      {
+        "type": "group",
+        "id": "Group 44"
+      },
+      {
+        "type": "image",
+        "id": "Буффало 2"
+      },
+      {
+        "type": "group",
+        "id": "текст1"
+      },
+      {
+        "type": "vector",
+        "id": "Line 6"
+      },
+      {
+        "type": "text",
+        "id": "Баварские колбаски"
+      },
+      {
+        "type": "text",
+        "id": "Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус"
+      },
+      {
+        "type": "group",
+        "id": "цена1"
+      },
+      {
+        "type": "text",
+        "id": "от 345 р1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 43"
+      },
+      {
+        "type": "group",
+        "id": "Group 45"
+      },
+      {
+        "type": "image",
+        "id": "Буффало 3"
+      },
+      {
+        "type": "group",
+        "id": "текст2"
+      },
+      {
+        "type": "vector",
+        "id": "Line 7"
+      },
+      {
+        "type": "text",
+        "id": "Нежный лосось"
+      },
+      {
+        "type": "text",
+        "id": "Лосось, томаты, оливки,соус песто,помидорки черри"
+      },
+      {
+        "type": "group",
+        "id": "цена2"
+      },
+      {
+        "type": "text",
+        "id": "от 345 р2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 44"
+      },
+      {
+        "type": "group",
+        "id": "Категория 1"
+      },
+      {
+        "type": "group",
+        "id": "Категория 2"
+      },
+      {
+        "type": "group",
+        "id": "Категория 3"
+      },
+      {
+        "type": "group",
+        "id": "Категория 4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 40"
+      },
+      {
+        "type": "text",
+        "id": "Пицца"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 41"
+      },
+      {
+        "type": "text",
+        "id": "Комбо"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 45"
+      },
+      {
+        "type": "text",
+        "id": "Десерты"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 46"
+      },
+      {
+        "type": "text",
+        "id": "Напитки"
+      },
+      {
+        "type": "group",
+        "id": "Top/Default/Light"
+      },
+      {
+        "type": "group",
+        "id": "qr-code (1) 1"
+      },
+      {
+        "type": "group",
+        "id": "переключатель города "
+      },
+      {
+        "type": "group",
+        "id": "Top/_default"
+      },
+      {
+        "type": "vector",
+        "id": "-background"
+      },
+      {
+        "type": "group",
+        "id": "Group"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "Vector6"
+      },
+      {
+        "type": "vector",
+        "id": "Vector7"
+      },
+      {
+        "type": "vector",
+        "id": "Vector8"
+      },
+      {
+        "type": "vector",
+        "id": "Vector9"
+      },
+      {
+        "type": "vector",
+        "id": "Vector10"
+      },
+      {
+        "type": "text",
+        "id": "Москва"
+      },
+      {
+        "type": "group",
+        "id": "keyboard_arrow_down"
+      },
+      {
+        "type": "vector",
+        "id": "Vector11"
+      },
+      {
+        "type": "vector",
+        "id": "Vector12"
+      }
+    ],
+    "modes": {
+      "Главный экран-скролл": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 54",
+              "Rectangle 55",
+              "Список",
+              "Категории товара v2",
+              "TabBar",
+              "NavigationBar"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            }
+          },
+          {
+            "id": "Rectangle 54",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "640.0"
+              }
+            },
+            "vector-content": "rectangle_54.svg"
+          },
+          {
+            "id": "Rectangle 55",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.16862745098039217",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.7450980392156863"
+              },
+              "blur": "10.0",
+              "offset-x": "0.0",
+              "offset-y": "6.0",
+              "spread": "6.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "144.0"
+              }
+            },
+            "vector-content": "rectangle_55.svg"
+          },
+          {
+            "id": "Список",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "160.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "501.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Товар 1",
+              "Товар 2",
+              "Товар 3",
+              "Line 5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Категории товара v2",
+            "border-radius": "6.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "96.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "376.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Категория 1",
+              "Категория 2",
+              "Категория 3",
+              "Категория 4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TabBar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "584.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              }
+            }
+          },
+          {
+            "id": "NavigationBar",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Top/Default/Light",
+              "qr-code (1) 1",
+              "переключатель города "
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Товар 1",
+            "margin": {
+              "top": "16.0",
+              "bottom": "334.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Group 43"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Товар 2",
+            "margin": {
+              "top": "183.0",
+              "bottom": "167.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Group 44"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Товар 3",
+            "margin": {
+              "top": "350.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Group 45"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 5",
+            "margin": {
+              "top": "0.000015736099783225654",
+              "bottom": "500.9999842639002"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Group 43",
+            "is-structured": "false",
+            "children": [
+              "Буффало 1",
+              "текст",
+              "Line 4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Буффало 1",
+            "margin": {
+              "left": "16.0",
+              "right": "209.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "текст",
+            "margin": {
+              "left": "173.0",
+              "right": "16.0",
+              "bottom": "16.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "Ветчина и грибы",
+              "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
+              "цена"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 4",
+            "margin": {
+              "top": "151.00001573609978"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Ветчина и грибы",
+            "margin": {
+              "right": "44.0",
+              "bottom": "116.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.3061224489795919",
+              "value": "0.19215686274509805"
+            },
+            "text-content": "Ветчина и грибы ",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
+            "margin": {
+              "top": "27.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "225.0000000000001",
+              "saturation": "0.023121387283237076",
+              "value": "0.6784313725490196"
+            },
+            "text-content": "Ветчина,шампиньоны, увеличинная порция моцареллы, томатный соус",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "цена",
+            "margin": {
+              "left": "84.0",
+              "top": "103.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "от 345 р",
+              "Rectangle 42"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "от 345 р",
+            "margin": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "18.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "345.53846153846155",
+              "saturation": "0.7707509881422925",
+              "value": "0.9921568627450981"
+            },
+            "text-content": "от 345 р",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Rectangle 42",
+            "border-radius": "6.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_42.svg"
+          },
+          {
+            "id": "Group 44",
+            "is-structured": "false",
+            "children": [
+              "Буффало 2",
+              "текст1",
+              "Line 6"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Буффало 2",
+            "margin": {
+              "left": "16.0",
+              "right": "209.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "текст1",
+            "margin": {
+              "left": "173.0",
+              "right": "16.0",
+              "bottom": "16.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "Баварские колбаски",
+              "Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус",
+              "цена1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 6",
+            "margin": {
+              "top": "151.00001573609978"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Баварские колбаски",
+            "margin": {
+              "right": "15.0",
+              "bottom": "116.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.3061224489795919",
+              "value": "0.19215686274509805"
+            },
+            "text-content": "Баварские колбаски",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус",
+            "margin": {
+              "top": "27.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "225.0000000000001",
+              "saturation": "0.023121387283237076",
+              "value": "0.6784313725490196"
+            },
+            "text-content": "Баварские колбаски, ветчина,пикантная пепперони, острая чоризо,томатный соус",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "цена1",
+            "margin": {
+              "left": "84.0",
+              "top": "103.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "от 345 р1",
+              "Rectangle 43"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "от 345 р1",
+            "margin": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "18.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "345.53846153846155",
+              "saturation": "0.7707509881422925",
+              "value": "0.9921568627450981"
+            },
+            "text-content": "от 345 р",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Rectangle 43",
+            "border-radius": "6.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_43.svg"
+          },
+          {
+            "id": "Group 45",
+            "is-structured": "false",
+            "children": [
+              "Буффало 3",
+              "текст2",
+              "Line 7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Буффало 3",
+            "margin": {
+              "left": "16.0",
+              "right": "209.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "текст2",
+            "margin": {
+              "left": "173.0",
+              "right": "16.0",
+              "bottom": "33.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "Нежный лосось",
+              "Лосось, томаты, оливки,соус песто,помидорки черри",
+              "цена2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Line 7",
+            "margin": {
+              "top": "151.00001573609978"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Нежный лосось",
+            "margin": {
+              "right": "49.0",
+              "bottom": "99.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.3061224489795919",
+              "value": "0.19215686274509805"
+            },
+            "text-content": "Нежный лосось",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "Лосось, томаты, оливки,соус песто,помидорки черри",
+            "margin": {
+              "top": "27.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "225.0000000000001",
+              "saturation": "0.023121387283237076",
+              "value": "0.6784313725490196"
+            },
+            "text-content": "Лосось, томаты, оливки,соус песто,помидорки черри",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "цена2",
+            "margin": {
+              "left": "84.0",
+              "top": "86.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "от 345 р2",
+              "Rectangle 44"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "от 345 р2",
+            "margin": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "18.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "345.53846153846155",
+              "saturation": "0.7707509881422925",
+              "value": "0.9921568627450981"
+            },
+            "text-content": "от 345 р",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Rectangle 44",
+            "border-radius": "6.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_44.svg"
+          },
+          {
+            "id": "Категория 1",
+            "margin": {
+              "right": "288.0"
+            },
+            "border-radius": "6.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.16862745098039217",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.7450980392156863"
+              },
+              "blur": "10.0",
+              "offset-x": "0.0",
+              "offset-y": "0.0",
+              "spread": "6.0",
+              "blend-mode": "normal"
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 40",
+              "Пицца"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Категория 2",
+            "margin": {
+              "left": "96.0",
+              "right": "192.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 41",
+              "Комбо"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Категория 3",
+            "margin": {
+              "left": "192.0",
+              "right": "96.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 45",
+              "Десерты"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Категория 4",
+            "margin": {
+              "left": "288.0"
+            },
+            "border-radius": "6.0",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 46",
+              "Напитки"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 40",
+            "border-radius": "6.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_40.svg"
+          },
+          {
+            "id": "Пицца",
+            "margin": {
+              "left": "24.0",
+              "top": "8.0",
+              "right": "23.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "600.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "345.53846153846155",
+              "saturation": "0.7707509881422925",
+              "value": "0.9921568627450981"
+            },
+            "text-content": "Пицца",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Rectangle 41",
+            "border-radius": "6.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.16862745098039217",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.7450980392156863"
+              },
+              "blur": "10.0",
+              "offset-x": "0.0",
+              "offset-y": "0.0",
+              "spread": "6.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_41.svg"
+          },
+          {
+            "id": "Комбо",
+            "margin": {
+              "left": "24.0",
+              "top": "8.0",
+              "right": "25.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "219.9999999999998",
+              "saturation": "0.030000000000000037",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "Комбо",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Rectangle 45",
+            "border-radius": "6.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.16862745098039217",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.7450980392156863"
+              },
+              "blur": "10.0",
+              "offset-x": "0.0",
+              "offset-y": "0.0",
+              "spread": "6.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_45.svg"
+          },
+          {
+            "id": "Десерты",
+            "margin": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "17.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "219.9999999999998",
+              "saturation": "0.030000000000000037",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "Десерты",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Rectangle 46",
+            "border-radius": "6.0",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.16862745098039217",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.7450980392156863"
+              },
+              "blur": "10.0",
+              "offset-x": "0.0",
+              "offset-y": "0.0",
+              "spread": "6.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_46.svg"
+          },
+          {
+            "id": "Напитки",
+            "margin": {
+              "left": "18.0",
+              "top": "8.0",
+              "right": "19.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "219.9999999999998",
+              "saturation": "0.030000000000000037",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "Напитки",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.193359375",
+            "typeface": "SF UI Display"
+          },
+          {
+            "id": "Top/Default/Light",
+            "is-structured": "false",
+            "children": [
+              "Top/_default"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "qr-code (1) 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "320.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "16.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Group"
+            ]
+          },
+          {
+            "id": "переключатель города ",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "16.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "16.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "91.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Москва",
+              "keyboard_arrow_down"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Top/_default",
+            "presence": "false",
+            "is-structured": "false",
+            "children": [
+              "-background"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "-background",
+            "drop-shadow": {
+              "color": {
+                "alpha": "0.11764705882352941",
+                "hue": "0.0",
+                "saturation": "0.0",
+                "value": "0.0"
+              },
+              "blur": "12.0",
+              "offset-x": "0.0",
+              "offset-y": "1.0",
+              "spread": "0.0",
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Group",
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Vector1",
+              "Vector2",
+              "Vector3",
+              "Vector4",
+              "Vector5",
+              "Vector6",
+              "Vector7",
+              "Vector8",
+              "Vector9",
+              "Vector10"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "17.25",
+              "bottom": "17.25"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector6.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "right": "17.25",
+              "bottom": "17.25"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector7.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "top": "17.25",
+              "right": "17.25"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector8.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "17.25",
+              "top": "17.25"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector9.svg"
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": "3.0",
+              "top": "3.0",
+              "right": "12.75",
+              "bottom": "12.75"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector10.svg"
+          },
+          {
+            "id": "Vector5",
+            "margin": {
+              "left": "3.0",
+              "top": "12.75",
+              "right": "12.75",
+              "bottom": "3.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector11.svg"
+          },
+          {
+            "id": "Vector6",
+            "margin": {
+              "left": "12.75",
+              "top": "3.0",
+              "right": "3.0",
+              "bottom": "12.75"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector12.svg"
+          },
+          {
+            "id": "Vector7",
+            "margin": {
+              "left": "12.75",
+              "top": "12.75",
+              "right": "3.0",
+              "bottom": "3.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector13.svg"
+          },
+          {
+            "id": "Vector8",
+            "margin": {
+              "left": "6.0",
+              "top": "6.0",
+              "right": "15.75",
+              "bottom": "15.75"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector14.svg"
+          },
+          {
+            "id": "Vector9",
+            "margin": {
+              "left": "15.75",
+              "top": "6.0",
+              "right": "6.0",
+              "bottom": "15.75"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector15.svg"
+          },
+          {
+            "id": "Vector10",
+            "margin": {
+              "left": "6.0",
+              "top": "15.75",
+              "right": "15.75",
+              "bottom": "6.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector16.svg"
+          },
+          {
+            "id": "Москва",
+            "margin": {
+              "top": "2.0",
+              "right": "33.0",
+              "bottom": "3.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "216.0",
+              "saturation": "0.3061224489795919",
+              "value": "0.19215686274509805"
+            },
+            "text-content": "Москва",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": "16.0",
+            "line-height": "1.171875"
+          },
+          {
+            "id": "keyboard_arrow_down",
+            "margin": {
+              "left": "67.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector11",
+              "Vector12"
+            ]
+          },
+          {
+            "id": "Vector11",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Vector12",
+            "margin": {
+              "left": "6.0",
+              "top": "8.5899658203125",
+              "right": "6.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector17.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Главный экран-скролл",
+      "size": {
+        "width": 360.0,
+        "height": 640.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

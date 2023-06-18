@@ -1,0 +1,546 @@
+{
+  "name": "tab_bar",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "ptk78MBfzdR78aZzkfRsWv",
+    "node": "8:764",
+    "version": "3667288316",
+    "component-id": "1b0717c7abd2dad1d69ce8ade09b594984ccd068"
+  },
+  "default": "TabBar",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 56"
+      },
+      {
+        "type": "group",
+        "id": "Destination 1"
+      },
+      {
+        "type": "group",
+        "id": "_bn-item"
+      },
+      {
+        "type": "group",
+        "id": "_bn-item1"
+      },
+      {
+        "type": "group",
+        "id": "_bn-item2"
+      },
+      {
+        "type": "vector",
+        "id": "-background-active"
+      },
+      {
+        "type": "group",
+        "id": "Icon"
+      },
+      {
+        "type": "text",
+        "id": "Label"
+      },
+      {
+        "type": "group",
+        "id": "Misc …/Icons Background"
+      },
+      {
+        "type": "vector",
+        "id": "Icons Button"
+      },
+      {
+        "type": "group",
+        "id": "Group"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector3"
+      },
+      {
+        "type": "vector",
+        "id": "Vector4"
+      },
+      {
+        "type": "vector",
+        "id": "-background-active1"
+      },
+      {
+        "type": "text",
+        "id": "Label1"
+      },
+      {
+        "type": "group",
+        "id": "Корзина"
+      },
+      {
+        "type": "vector",
+        "id": "Vector5"
+      },
+      {
+        "type": "vector",
+        "id": "-background-active2"
+      },
+      {
+        "type": "text",
+        "id": "Label2"
+      }
+    ],
+    "modes": {
+      "TabBar": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 56",
+              "Destination 1",
+              "_bn-item",
+              "_bn-item1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 56",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_56.svg"
+          },
+          {
+            "id": "Destination 1",
+            "margin": {
+              "right": "240.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "_bn-item2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "_bn-item",
+            "margin": {
+              "left": "240.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "-background-active1",
+              "Label1",
+              "Корзина"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "_bn-item1",
+            "margin": {
+              "left": "120.0",
+              "right": "120.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "-background-active2",
+              "Label2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "_bn-item2",
+            "is-structured": "false",
+            "children": [
+              "-background-active",
+              "Icon",
+              "Label"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "-background-active",
+            "margin": "4.0",
+            "border-radius": "4.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "_background_active.svg"
+          },
+          {
+            "id": "Icon",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "24.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Misc …/Icons Background"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Label",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "11.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "345.53846153846155",
+              "saturation": "0.7707509881422925",
+              "value": "0.9921568627450981"
+            },
+            "text-content": "Меню",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Misc …/Icons Background",
+            "is-structured": "false",
+            "children": [
+              "Icons Button",
+              "Group"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Icons Button",
+            "presence": "false",
+            "border-radius": "2.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Group",
+            "margin": {
+              "bottom": "3.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Vector1",
+              "Vector2",
+              "Vector3",
+              "Vector4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "right": "7.570098876953125",
+              "bottom": "16.2537841796875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "9.8837890625",
+              "top": "19.052978515625",
+              "right": "1.409820556640625",
+              "bottom": "3.53369140625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "1.53607177734375",
+              "top": "9.1597900390625",
+              "right": "11.39593505859375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          },
+          {
+            "id": "Vector3",
+            "margin": {
+              "left": "8.469970703125",
+              "top": "11.2796630859375",
+              "bottom": "6.3602294921875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector3.svg"
+          },
+          {
+            "id": "Vector4",
+            "margin": {
+              "left": "8.469970703125",
+              "top": "21.8797607421875",
+              "right": "0.001434326171875",
+              "bottom": "0.000244140625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector4.svg"
+          },
+          {
+            "id": "-background-active1",
+            "presence": "false",
+            "margin": "4.0",
+            "border-radius": "4.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Label1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "11.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.4823529411764706"
+            },
+            "text-content": "Корзина",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Inter"
+          },
+          {
+            "id": "Корзина",
+            "margin": {
+              "left": "48.0",
+              "top": "5.0",
+              "right": "48.0",
+              "bottom": "27.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector5"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector5.svg"
+          },
+          {
+            "id": "-background-active2",
+            "presence": "false",
+            "margin": "4.0",
+            "border-radius": "4.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            }
+          },
+          {
+            "id": "Label2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "11.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "14.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.4823529411764706"
+            },
+            "text-content": "Профиль",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "12.0",
+            "line-height": "1.3333332824707032",
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "TabBar",
+      "size": {
+        "width": 360.0,
+        "height": 56.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
